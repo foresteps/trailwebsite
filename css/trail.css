@@ -7,12 +7,12 @@ body {
 }
 
 .logo-img-top {
-	max-width: 90%;
-	min-width: 80%;
+	max-width: 80%;
+	min-width: 70%;
 }
 
 .logo-control {
-	padding-top: 5%;
+	padding-top: 10%;
 }
 
 .h5, h5 {
@@ -28,9 +28,9 @@ hr {
     margin-bottom: 1rem;
 }
 
-.item-font-size {
+/*.item-font-size {
 	font-size: 1rem;
-}
+}*/
 
 /*#parent {
    display: table;

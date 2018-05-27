@@ -28,6 +28,16 @@ hr {
     margin-bottom: 1rem;
 }
 
+#body {
+   /*min-height: 400px;*/
+   margin-bottom: 100px;
+   clear: both;
+}
+
+.text-grey {
+	color: grey;
+}
+
 /*.item-font-size {
 	font-size: 1rem;
 }*/

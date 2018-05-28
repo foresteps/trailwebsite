@@ -38,6 +38,14 @@ hr {
 	color: grey;
 }
 
+.payoff-text-color {
+	color: #52658C;
+}
+
+.services-text {
+	font-size: 0.8rem;
+}
+
 /*.item-font-size {
 	font-size: 1rem;
 }*/

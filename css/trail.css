@@ -29,7 +29,6 @@ hr {
 }
 
 #body {
-   /*min-height: 400px;*/
    margin-bottom: 100px;
    clear: both;
 }
@@ -45,20 +44,3 @@ hr {
 .services-text {
 	font-size: 0.8rem;
 }
-
-/*.item-font-size {
-	font-size: 1rem;
-}*/
-
-/*#parent {
-   display: table;
-   width: 100%;
-   padding-bottom: 70px;
-}
-
-#footer-fixed {
-   display: table-cell;
-   text-align: center;
-   vertical-align: middle;
-}*/
-

@@ -1,9 +1,10 @@
 body {
 	font-family: 'Lato', sans-serif;
+	background-color: #FAFAFA;
 }
 
 .content {
-	text-align: center;
+	text-align: center !important;
 }
 
 .logo-img-top {
@@ -12,7 +13,7 @@ body {
 }
 
 .logo-control {
-	padding-top: 8%;
+	padding-top: 12%;
 }
 
 .h5, h5 {
@@ -28,10 +29,10 @@ hr {
     margin-bottom: 1rem;
 }
 
-#body {
+/*#body {
    margin-bottom: 100px;
    clear: both;
-}
+}*/
 
 .text-grey {
 	color: grey;
@@ -44,3 +45,16 @@ hr {
 .services-text {
 	font-size: 0.8rem;
 }
+
+.bg-white {
+	border: 3px solid #F2F2F2;
+	margin-top: 3rem;
+	/*margin-bottom: 2rem;*/
+/*	background-color: #D7DADB !important;*/
+}
+
+/*.contact-info {
+	border-bottom: 1px solid grey;
+	border-top: 1px solid grey;
+	margin-bottom: 2px;
+}*/
